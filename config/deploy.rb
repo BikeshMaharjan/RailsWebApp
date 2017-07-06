@@ -3,7 +3,7 @@ set :deploy_user, 'micnepal'
 
 # setup repo details
 set :scm, :git
-set :repo_url, 'http://tfs.unlimit.com/tfs/MainCollection/_git/TOAWeb'
+set :repo_url, 'https://github.com/BikeshMaharjan/RailsWebApp.git'
 
 # setup rvm.
 set :rbenv_type, :system
